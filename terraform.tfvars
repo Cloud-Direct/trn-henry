@@ -1,0 +1,7 @@
+configuration_file_path         = "<configuration-file-path>"
+default_postfix                 = "landing-zone"
+root_parent_management_group_id = "646ada64-7c92-4b45-89b3-3210e8cc1cdc"
+starter_location                = "uksouth"
+subscription_id_connectivity    = "61af5727-6a5e-4693-8c3f-5644761a817f"
+subscription_id_identity        = "c9a23956-ca9f-4e96-a052-823a9a77eaac"
+subscription_id_management      = "edc700d4-b152-4f84-898f-27deea5d5d12"
